@@ -8,4 +8,6 @@ export function moreSomething() {
   console.log('Another function');
 }
 
-console.log(addTwo(4));
+export function moreSomethingElse() {
+  console.log('Another function');
+}
